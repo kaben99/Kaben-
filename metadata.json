@@ -1,0 +1,6 @@
+{
+  "name": "Clarity Lens",
+  "description": "Open-access multimodal research and visual, audio, grooming, and public-record analysis app powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
